@@ -1,0 +1,3 @@
+[submodule "SageMaker_seq2seq_WordPronunciation"]
+	path = SageMaker_seq2seq_WordPronunciation
+	url = https://github.com/aws-samples/SageMaker_seq2seq_WordPronunciation.git
